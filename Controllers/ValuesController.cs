@@ -36,6 +36,9 @@ namespace Dockersampleconfig.Controllers
             l.Add("CDE12 data added");
             l.Add("Schneider Data Added");
             l.Add("RBC data added");
+            l.Add("Vishal");
+            l.Add("Sagar");
+            l.Add("Akash");
             return l;
         }
     }
